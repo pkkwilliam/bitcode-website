@@ -1,8 +1,8 @@
 {
     "Header": {
 
-        "title": "We are a Landing Page",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+        "title": "源代碼科技",
+        "paragraph": "源自澳門的科技公司，致力於以最快的速度為顧客提供最優質的軟件"
 
     },
     "About": {
@@ -20,38 +20,47 @@
             "Lorem ipsum dolor"
         ]
     },
-    "Services": [{
-            "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    "Services": [
+        {
+            "icon": "fa fa-cutlery",
+            "name": "餐廳手機點菜",
+            "text": "使用手機點菜，同抬客戶可實時"
         },
         {
-            "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-comments-o",
+            "name": "實時聊天",
+            "text": "實時群組聊天或私密聊天"
         },
         {
-            "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-briefcase",
+            "name": "企業網站",
+            "text": "購買域名，網站設計，建設，實施"
         },
         {
             "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "數據分析",
+            "text": "AI數據分析"
+        },
+        {
+            "icon": "fa fa-wechat",
+            "name": "微信小程序",
+            "text": "???"
+        },
+        {
+            "icon": "fa fa-cogs",
+            "name": "企業ERP管理系統",
+            "text": "人員管理，庫存管理，打單"
+        },
+        {
+            "icon": "fa fa-mobile",
+            "name": "手機App",
+            "text": "蘋果(Apple)手機和安卓(Android)系統手機應用開發"
+        },
+        {
+            "icon": "fa fa-cloud",
+            "name": "雲服務",
+            "text": "使用AWS雲系統保證性能及其穩定性"
         }
-
-
     ],
     "Testimonials": [{
             "img": "img/testimonials/01.jpg",
@@ -86,51 +95,38 @@
     ],
     "Team": [{
             "img": "img/team/01.jpg",
-            "name": "John Doe",
+            "name": "Ka Kei Pun",
             "job": "Director"
-        },
-        {
-            "img": "img/team/02.jpg",
-            "name": "Mike Doe",
-            "job": "Senior Designer"
-        }, {
-            "img": "img/team/03.jpg",
-            "name": "Jane Doe",
-            "job": "Senior Designer"
-        },
-        {
-            "img": "img/team/04.jpg",
-            "name": "Karen Doe",
-            "job": "Project Manager"
         }
     ],
     "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
-        "phone": "+1 123 456 1234",
+        "address": "澳門漁翁街166號永好工業大厦7樓F-G座",
+        "phone": "+853 63530392",
         "email": "info@company.com",
         "facebook": "fb.com",
         "twitter": "twitter.com",
         "youtube": "youtube.com"
     },
-    "Features": [{
-            "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    "Features": [
+        {
+            "icon": "fa fa-users",
+            "title": "以用戶為中心",
+            "text": "服務才是我們最大優勢"
         },
         {
-            "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-exchange",
+            "title": "溝通進化",
+            "text": "我們不論項目大小，每次會面我們的工程人員及項目經經理均會出席，保證每個功能及需求開發的成功"
         },
         {
-            "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-fighter-jet",
+            "title": "敏捷開發 (Agile)",
+            "text": "項目的合併被切成多個實體項目，各個子項目的成果都經過測試，成為集成和可運行的特徵。換言之，就是把一個大項目分為多個相互聯繫，但也可獨立運行的小"
         },
         {
-            "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "icon": "fa fa-clock-o",
+            "title": "24小時人員在線",
+            "text": "工程人員輪班保證及時處理緊急事件"
         }
     ]
 }

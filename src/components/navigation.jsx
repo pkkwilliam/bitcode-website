@@ -1,11 +1,10 @@
 import React, { Component } from "react";
-
 export class Navigation extends Component {
   render() {
     return (
       <nav id="menu" className="navbar navbar-default navbar-fixed-top">
         <div className="container">
-          <div className="navbar-header">
+          <div className="navbar-header" style={{alignItems: 'center',display: 'flex', justifyContent: ""}}>
             <button
               type="button"
               className="navbar-toggle collapsed"
@@ -18,8 +17,8 @@ export class Navigation extends Component {
               <span className="icon-bar"></span>{" "}
               <span className="icon-bar"></span>{" "}
             </button>
-            <a className="navbar-brand page-scroll" href="#page-top">
-              React Landing Page
+            <a href="#page-top">
+              <img arlt="logo" src={"img/bitcode_logo.png"} style={{width: '20rem'}}/>
             </a>{" "}
           </div>
 
@@ -30,37 +29,37 @@ export class Navigation extends Component {
             <ul className="nav navbar-nav navbar-right">
               <li>
                 <a href="#features" className="page-scroll">
-                  Features
+                  特點
                 </a>
               </li>
               <li>
                 <a href="#about" className="page-scroll">
-                  About
+                  關於
                 </a>
               </li>
               <li>
                 <a href="#services" className="page-scroll">
-                  Services
+                  服務
                 </a>
               </li>
               <li>
                 <a href="#portfolio" className="page-scroll">
-                  Gallery
+                案例
                 </a>
               </li>
-              <li>
+              {/* <li>
                 <a href="#testimonials" className="page-scroll">
                   Testimonials
                 </a>
-              </li>
+              </li> */}
               <li>
                 <a href="#team" className="page-scroll">
-                  Team
+                團隊
                 </a>
               </li>
               <li>
                 <a href="#contact" className="page-scroll">
-                  Contact
+                聯繫
                 </a>
               </li>
             </ul>
