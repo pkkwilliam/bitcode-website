@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pkkwilliam/bitcode-website/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/pkkwilliam/bitcode-website/static/js/main.d4c6ca57.chunk.js",
+    "main.js.map": "/pkkwilliam/bitcode-website/static/js/main.d4c6ca57.chunk.js.map",
+    "runtime-main.js": "/pkkwilliam/bitcode-website/static/js/runtime-main.1db0b4f0.js",
+    "runtime-main.js.map": "/pkkwilliam/bitcode-website/static/js/runtime-main.1db0b4f0.js.map",
+    "static/js/2.68006cb0.chunk.js": "/pkkwilliam/bitcode-website/static/js/2.68006cb0.chunk.js",
+    "static/js/2.68006cb0.chunk.js.map": "/pkkwilliam/bitcode-website/static/js/2.68006cb0.chunk.js.map",
+    "index.html": "/pkkwilliam/bitcode-website/index.html",
+    "precache-manifest.9ead8083e4bfd12bebc19eb259241f29.js": "/pkkwilliam/bitcode-website/precache-manifest.9ead8083e4bfd12bebc19eb259241f29.js",
+    "service-worker.js": "/pkkwilliam/bitcode-website/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/pkkwilliam/bitcode-website/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.68006cb0.chunk.js.LICENSE.txt": "/pkkwilliam/bitcode-website/static/js/2.68006cb0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1db0b4f0.js",
+    "static/js/2.68006cb0.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.d4c6ca57.chunk.js"
+  ]
+}
