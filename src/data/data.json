@@ -2,15 +2,15 @@
     "Header": {
 
         "title": "源代碼科技",
-        "paragraph": "源自澳門的科技公司，致力於以最快的速度為顧客提供最優質的軟件"
+        "paragraph": "致力於以最快的速度為顧客訂制最優質的管理軟件"
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "元架構軟件技術有限公司成立於2008年5月，是一間以軟件技術開發為主之資訊科技解決方案供應商。公司的總部設於澳門，主要為各政府部門、教育機構、社團組織、私人企業等提供全面的資訊系統開發及技術支援服務，公司在珠海設有全資附屬子公司及研發中心，主要從事技術應用研究、軟件產品開發及面向國內市場的推廣等服務我們公司的成立因為美國Futune 30的高級全棧工程師回澳，希望把國外的優，帶回澳門我們根據市場普遍需要，自主研發特定業務領域的軟件系統及產品，建立可持續發展的系統平台，再針對客戶的需求對系統平台進行擴展及客制化，提供整體解決方案。通過此方式提供的解決方案由於實現了平台及業務功能的分離，因此更具彈性，更能適應因業務發展而帶來需求之變化。",
         "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
+            "容X冠通",
+            "敏捷開發",
+            "多樣性",
             "Incididunt ut labore"
         ],
         "Why2": [
@@ -102,7 +102,7 @@
     "Contact": {
         "address": "澳門漁翁街166號永好工業大厦7樓F-G座",
         "phone": "+853 63530392",
-        "email": "info@company.com",
+        "email": "bitcode.mo@gmail.com",
         "facebook": "fb.com",
         "twitter": "twitter.com",
         "youtube": "youtube.com"
