@@ -1,127 +1,127 @@
 {
-    "Header": {
-
-        "title": "源代碼科技",
-        "paragraph": "以高可用性及高質量代碼為客戶訂制最合適的軟件"
-    },
-    "About": {
-        "paragraph": "源代碼是一間以軟件技術開發為主的科技解決方案供應商。我們主要為各政府部門、教育機構、私人企業等提供全面的軟件系統開發及系統維護服務。\n我們的開發團隊成員大多取得相關業專碩士學位，擁有多年在美國30強公司高級軟件開發經驗。",
-        "Why": [
-            "高通用性",
-            "所有項目均采用敏捷開發",
-            "高擴展框架支持企業的持續發展",
-            "高級開發員均具備編程語言專業資格證書"
-        ],
-        "Why2": [
-        ]
-    },
-    "Services": [
-        {
-            "icon": "fa fa-cutlery",
-            "name": "手機點餐",
-            "text": "智能手機掃碼點餐"
-        },
-        {
-            "icon": "fa fa-comments-o",
-            "name": "實時聊天",
-            "text": "實時群組聊天或私密聊天"
-        },
-        {
-            "icon": "fa fa-briefcase",
-            "name": "企業網站",
-            "text": "動態或靜態網站建設及維護"
-        },
-        {
-            "icon": "fa fa-area-chart",
-            "name": "數據分析",
-            "text": "多維度分析圖表"
-        },
-        {
-            "icon": "fa fa-id-card-o",
-            "name": "AI人臉識別",
-            "text": "讀取人臉並授權相關操作"
-        },
-        {
-            "icon": "fa fa-cogs",
-            "name": "企業ERP管理系統",
-            "text": "人員及庫存的高級管理"
-        },
-        {
-            "icon": "fa fa-mobile",
-            "name": "手機App",
-            "text": "蘋果(iOS)手機和安卓(Android)系統手機應用開發"
-        },
-        {
-            "icon": "fa fa-cloud",
-            "name": "雲服務",
-            "text": "使用亞馬遜AWS雲服務以保證應用的性能及穩定"
-        }
+  "Header": {
+    "title": "源代碼科技",
+    "paragraph": "Code Once, Use Everywhere"
+  },
+  "About": {
+    "paragraph": "源代碼是一間以軟件技術開發為主的科技解決方案供應商。我們主要為各政府部門、教育機構、私人企業等提供全面的軟件系統開發及系統維護服務。\n我們的開發團隊成員大多取得相關業專碩士學位，擁有多年在美國30強公司高級軟件開發經驗。",
+    "Why": [
+      "高通用性",
+      "所有項目均采用敏捷開發",
+      "高擴展框架支持企業的持續發展",
+      "高級開發員均具備編程語言專業資格證書"
     ],
-    "Testimonials": [{
-            "img": "img/testimonials/01.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/02.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        },
-        {
-            "img": "img/testimonials/03.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/04.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        },
-        {
-            "img": "img/testimonials/05.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/06.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        }
-    ],
-    "Team": [{
-            "img": "img/team/01.jpg",
-            "name": "Ka Kei Pun",
-            "job": "Director"
-        }
-    ],
-    "Contact": {
-        "address": "澳門漁翁街166號永好工業大厦7樓F-G座",
-        "phone": "+853 63530392",
-        "email": "bitcode.mo@gmail.com",
-        "facebook": "fb.com",
-        "twitter": "twitter.com",
-        "youtube": "youtube.com"
+    "Why2": []
+  },
+  "Services": [
+    {
+      "icon": "fa fa-cutlery",
+      "name": "手機點餐",
+      "text": "智能手機掃碼點餐"
     },
-    "Features": [
-        {
-            "icon": "fa fa-users",
-            "title": "以客戶為中心",
-            "text": "耐心聆聽，了解客戶的需求是我們服務的最大優勢之一"
-        },
-        {
-            "icon": "fa fa-exchange",
-            "title": "效率溝通",
-            "text": "不論項目大小，每次會面項目經理必定出席，保證每個功能開發的成功"
-        },
-        {
-            "icon": "fa fa-fighter-jet",
-            "title": "敏捷開發",
-            "text": "項目將被切成多個子項目，各個子項目的成果都經過測試，提升開發效率及多變性。"
-        },
-        {
-            "icon": "fa fa-clock-o",
-            "title": "24小時人員在線",
-            "text": "軟件工程人員輪班保證及時處理緊急事件"
-        }
-    ]
+    {
+      "icon": "fa fa-comments-o",
+      "name": "實時聊天",
+      "text": "實時群組聊天或私密聊天"
+    },
+    {
+      "icon": "fa fa-briefcase",
+      "name": "企業網站",
+      "text": "動態或靜態網站建設及維護"
+    },
+    {
+      "icon": "fa fa-area-chart",
+      "name": "數據分析",
+      "text": "多維度分析圖表"
+    },
+    {
+      "icon": "fa fa-id-card-o",
+      "name": "AI人臉識別",
+      "text": "讀取人臉並授權相關操作"
+    },
+    {
+      "icon": "fa fa-cogs",
+      "name": "企業ERP管理系統",
+      "text": "人員及庫存的高級管理"
+    },
+    {
+      "icon": "fa fa-mobile",
+      "name": "手機App",
+      "text": "蘋果(iOS)手機和安卓(Android)系統手機應用開發"
+    },
+    {
+      "icon": "fa fa-cloud",
+      "name": "雲服務",
+      "text": "使用亞馬遜AWS雲服務以保證應用的性能及穩定"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Ka Kei Pun",
+      "job": "Director"
+    }
+  ],
+  "Contact": {
+    "address": "澳門漁翁街166號永好工業大厦7樓F-G座",
+    "phone": "+853 63530392",
+    "email": "bitcode.mo@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-users",
+      "title": "以客戶為中心",
+      "text": "耐心聆聽，了解客戶的需求是我們服務的最大優勢之一"
+    },
+    {
+      "icon": "fa fa-exchange",
+      "title": "效率溝通",
+      "text": "不論項目大小，每次會面項目經理必定出席，保證每個功能開發的成功"
+    },
+    {
+      "icon": "fa fa-fighter-jet",
+      "title": "敏捷開發",
+      "text": "項目將被切成多個子項目，各個子項目的成果都經過測試，提升開發效率及多變性。"
+    },
+    {
+      "icon": "fa fa-clock-o",
+      "title": "24小時人員在線",
+      "text": "軟件工程人員輪班保證及時處理緊急事件"
+    }
+  ]
 }
