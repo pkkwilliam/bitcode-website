@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bitcode-website/precache-manifest.396405ca6c6eaa1ca71d0c9e24c00223.js"
+  "/bitcode-website/precache-manifest.44df0270152a1b42cf1cce97249b0fc3.js"
 );
 
 self.addEventListener('message', (event) => {

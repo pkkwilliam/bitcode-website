@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "976dc241f1d0e6d13f2577990f7dcebb",
+    "revision": "0ec14b6b3de167fb213534161cc4fa7b",
     "url": "/bitcode-website/index.html"
   },
   {
-    "revision": "1570a6381d177a3b670f",
+    "revision": "e5be1e3e40394b94a4aa",
     "url": "/bitcode-website/static/css/main.45bf604c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bitcode-website/static/js/2.e90d392d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1570a6381d177a3b670f",
-    "url": "/bitcode-website/static/js/main.cc96c0f5.chunk.js"
+    "revision": "e5be1e3e40394b94a4aa",
+    "url": "/bitcode-website/static/js/main.546160d2.chunk.js"
   },
   {
     "revision": "4a7f295e9fde80871b7e",
