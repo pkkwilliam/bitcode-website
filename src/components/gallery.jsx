@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import PickTB from "./picktb";
+import Rmms from "./rmms";
 export class Gallery extends Component {
   render() {
     return (
@@ -11,6 +12,9 @@ export class Gallery extends Component {
           <div className="row">
             <div className="portfolio-items">
               <PickTB />
+            </div>
+            <div className="portfolio-items">
+              <Rmms />
             </div>
           </div>
         </div>
