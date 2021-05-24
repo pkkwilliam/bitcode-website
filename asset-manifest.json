@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bitcode-website/static/css/main.45bf604c.chunk.css",
-    "main.js": "/bitcode-website/static/js/main.e9347dd0.chunk.js",
-    "main.js.map": "/bitcode-website/static/js/main.e9347dd0.chunk.js.map",
+    "main.js": "/bitcode-website/static/js/main.bef121da.chunk.js",
+    "main.js.map": "/bitcode-website/static/js/main.bef121da.chunk.js.map",
     "runtime-main.js": "/bitcode-website/static/js/runtime-main.1793c138.js",
     "runtime-main.js.map": "/bitcode-website/static/js/runtime-main.1793c138.js.map",
     "static/js/2.e90d392d.chunk.js": "/bitcode-website/static/js/2.e90d392d.chunk.js",
     "static/js/2.e90d392d.chunk.js.map": "/bitcode-website/static/js/2.e90d392d.chunk.js.map",
     "index.html": "/bitcode-website/index.html",
-    "precache-manifest.a92cc21dcc139d63f45361551e64fe88.js": "/bitcode-website/precache-manifest.a92cc21dcc139d63f45361551e64fe88.js",
+    "precache-manifest.156aa9104b3cd4e23931073f29a0c13b.js": "/bitcode-website/precache-manifest.156aa9104b3cd4e23931073f29a0c13b.js",
     "service-worker.js": "/bitcode-website/service-worker.js",
     "static/css/main.45bf604c.chunk.css.map": "/bitcode-website/static/css/main.45bf604c.chunk.css.map",
     "static/js/2.e90d392d.chunk.js.LICENSE.txt": "/bitcode-website/static/js/2.e90d392d.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1793c138.js",
     "static/js/2.e90d392d.chunk.js",
     "static/css/main.45bf604c.chunk.css",
-    "static/js/main.e9347dd0.chunk.js"
+    "static/js/main.bef121da.chunk.js"
   ]
 }
