@@ -1,5 +1,6 @@
 {
   "name": "bitcode-webiste",
+  "homepage": "https://bitcode.mo",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
