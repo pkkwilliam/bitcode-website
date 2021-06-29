@@ -99,6 +99,14 @@ export class Contact extends Component {
               <div className="contact-item">
                 <p>
                   <span>
+                    <i className="fa fa-globe"></i>網址
+                  </span>
+                  {this.props.data ? this.props.data.website : "loading"}
+                </p>
+              </div>
+              <div className="contact-item">
+                <p>
+                  <span>
                     <i className="fa fa-envelope-o"></i>Email
                   </span>
                   {this.props.data ? this.props.data.email : "loading"}

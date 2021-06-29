@@ -4,7 +4,7 @@ import { Case, Image } from "../common/case";
 const PICKTB_CONTENT = {
   name: "澳提 | PickTB",
   detail:
-    "澳提代收管理系統是為澳門龐志空運速递有限公司專門開發的淘寶代收平可快速幫助物流公司建立多功能及健全的快递業務，其中包括手機應用，物流管理，貨物追蹤，難件處理，打印運單等等功能。",
+    "澳提代收管理系統是為香港及澳門專門開發的淘寶代收平台，其中包括手機應用，物流管理，貨物追蹤，難件處理，打印運單等等功能。",
   images: {
     adminImages: ["/picktb_admin_1.png"],
     clientImages: [

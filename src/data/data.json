@@ -1,7 +1,7 @@
 {
   "Header": {
     "title": "源代碼科技",
-    "paragraph": "Code Once, Use Everywhere"
+    "paragraph": "Code Once, Use Anywhere"
   },
   "About": {
     "paragraph": "源代碼是一間以軟件技術開發為主的科技解決方案供應商。我們主要為各政府部門、教育機構、私人企業等提供全面的軟件系統開發及系統維護服務。\n我們的開發團隊成員大多取得相關業專碩士學位，擁有多年在美國30強公司高級軟件開發經驗。",
@@ -98,6 +98,7 @@
     "address": "澳門漁翁街166號永好工業大廈7樓F-G座",
     "phone": "+853 63530392",
     "email": "bitcode.mo@gmail.com",
+    "website": "https://bitcode.mo",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
